@@ -1,0 +1,22 @@
+body
+{
+background-color:#FFFF00;
+}
+h1
+{
+text-align:center;
+color:black;
+}
+p
+{
+text-align:center;
+color:navy;
+}
+#lien
+{
+background-color:Azure;
+height:40px;
+margin-left:250px;
+margin-right:250px;
+border: solid 2px #9400D3;
+}
